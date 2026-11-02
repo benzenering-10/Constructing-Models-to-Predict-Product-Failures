@@ -39,6 +39,7 @@ For Phase 2 of the project, the task was to build multiple predictive models usi
 - Random Forest
 - XGBoost
 - Neural Network
+- Ensemble
 
 A summary table of model performance is provided below:
 
