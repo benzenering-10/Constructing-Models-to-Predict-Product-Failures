@@ -91,3 +91,9 @@ Random Forests were the only models achieving reasonable accuracy, which reflect
 [R Code Random Forest Tuned3 Model](./BAN502_RForestTuned3.pdf)
 
 [R Code Random Forest Tuned4 Model](./BAN502_RForestTuned4.pdf)
+
+[R Code XG Boost Tuned Model](./BAN502_XGBTuned.pdf)
+
+[R Code XG Boost Tuned2 Model](./BAN502_XGBTuned2.pdf)
+
+[R Code XG Boost Tuned3 Model](./BAN502_XGBTuned3.pdf)
