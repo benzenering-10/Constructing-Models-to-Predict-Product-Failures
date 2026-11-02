@@ -13,7 +13,7 @@ Few variables stood out as strong predictors of product failure after the explor
 
 A summary of this process and these findings is described in the PowerPoint presentation for Phase 1 of the project, and the knitted Word document containing R code, below:
 ### Phase 1 Files
-[Phase 1 Summary](./Project_Ph1_VariableSelection.pptx)
+[Phase 1 Summary](./Project_Ph1_VariableSelection.pdf)
 
 [R Code](./BAN502_VariableSelect.pdf)
 
