@@ -32,7 +32,7 @@ A summary of this process and these findings is described in the PowerPoint pres
 <img width="1228" height="689" alt="image" src="https://github.com/user-attachments/assets/6c431c94-6af3-4c93-b684-f1e33a74c932" />
 
 
-## Phase 2 Key Findings
+## Phase 2 Key Findings and Project Conclusion
 For Phase 2 of the project, the task was to build multiple predictive models using training/ testing splits, k-fold cross-validation, and other means to predict failure of the fictional Super Soaker product. Variations of different models were constructed to aid in predictions, to include:
 - Logistic Regression
 - Classification Tree
