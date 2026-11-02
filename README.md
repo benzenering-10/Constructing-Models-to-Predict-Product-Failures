@@ -45,7 +45,9 @@ A summary table of model performance is provided below:
 
 <img width="766" height="364" alt="image" src="https://github.com/user-attachments/assets/2877264f-0068-4b61-87ba-475d903cb358" />
 
-Random Forests were the only models achieving reasonable accuracy, which reflects their strength in capturing nonlinear relationships among predictor variables,, but they were still subject to significant overfitting, as indicated by substantial train-test set gaps. All models struggled with the imbalanced failure variable outcome, 79% nonfailure, 21% failure, which resulted in low sensitivity. Therefore, no model demonstrated minority class detection, which limited the practical use for identifying true failure cases.
+Random Forests were the only models achieving reasonable accuracy, which reflects their strength in capturing nonlinear relationships among predictor variables,, but they were still subject to significant overfitting, as indicated by substantial train-test set gaps. All models struggled with the imbalanced failure variable outcome, 79% nonfailure, 21% failure, which resulted in low sensitivity. 
+
+Therefore, no model demonstrated minority class detection, which limited the practical use for identifying true failure cases.
 
 ### Phase 2 Files
 [Phase 2 Summary](./Project_Ph2_Models.pdf)
