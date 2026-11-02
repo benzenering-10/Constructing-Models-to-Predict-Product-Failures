@@ -9,7 +9,7 @@ The dataset was provided from Kaggle. Exploratory analysis was performed using R
 ### Phase 1 Files
 [Phase 1 Summary](./Project_Ph1_VariableSelection.pptx)
 
-[R Code](./BAN502_VariableSelect.docx)
+[R Code](./BAN502_VariableSelect.pdf)
 
 <img width="1227" height="691" alt="image" src="https://github.com/user-attachments/assets/eb89da5e-6636-4304-af1b-8f051589b67b" />
 
