@@ -50,12 +50,22 @@ Random Forests were the only models achieving reasonable accuracy, which reflect
 ### Phase 2 Files
 [Phase 2 Summary](./Project_Ph2_Models.pdf)
 
-[R Code Classification Tree](./BAN502_ClassTree.pdf)
+[R Code Classification Tree Model](./BAN502_ClassTree.pdf)
 
-[R Code Classification Tree2](./BAN502_ClassTree2.pdf)
+[R Code Classification Tree2 Model](./BAN502_ClassTree2.pdf)
 
-[R Code Classification Tree3](./BAN502_ClassTree3.pdf)
+[R Code Classification Tree3 Model](./BAN502_ClassTree3.pdf)
 
-[R Code Classification Tree4](./BAN502_ClassTree4.pdf)
+[R Code Classification Tree4 Model](./BAN502_ClassTree4.pdf)
 
-[R Code Classification Tree Select Variables](./BAN502_ClassTreeSelect.pdf)
+[R Code Classification Tree Select Variables Model](./BAN502_ClassTreeSelect.pdf)
+
+[R Code Ensemble Model](./BAN502_Ensemble.pdf)
+
+[R Code Logistic Regression Model](./BAN502_Logit.pdf)
+
+[R Code Logistic Regression2 Model](./BAN502_Logit2.pdf)
+
+[R Code Logistic Regression3 Model](./BAN502_Logit3.pdf)
+
+[R Code Logistic Regression4 Model](./BAN502_Logit4.pdf)
