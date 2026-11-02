@@ -33,3 +33,17 @@ A summary of this process and these findings is described in the PowerPoint pres
 
 
 ## Phase 2 Key Findings
+For Phase 2 of the project, the task was to build multiple predictive models using training/ testing splits, k-fold cross-validation, and other means to predict failure of the fictional Super Soaker product. Variations of different models were constructed to aid in predictions, to include:
+- Logistic Regression
+- Classification Tree
+- Random Forest
+- XGBoost
+- Neural Network
+
+A summary table of model performance is provided below:
+
+<img width="766" height="364" alt="image" src="https://github.com/user-attachments/assets/2877264f-0068-4b61-87ba-475d903cb358" />
+
+Random Forests were the only models achieving reasonable accuracy, which reflects their strength in capturing nonlinear relationships among predictor variables,, but they were still subject to significant overfitting, as indicated by substantial train-test set gaps. All models struggled with the imbalanced failure variable outcome, 79% nonfailure, 21% failure, which resulted in low sensitivity. Therefore, no model demonstrated minority class detection, which limited the practical use for identifying true failure cases.
+
+### Phase 2 Files
