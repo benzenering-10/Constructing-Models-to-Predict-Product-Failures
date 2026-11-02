@@ -69,3 +69,25 @@ Random Forests were the only models achieving reasonable accuracy, which reflect
 [R Code Logistic Regression3 Model](./BAN502_Logit3.pdf)
 
 [R Code Logistic Regression4 Model](./BAN502_Logit4.pdf)
+
+[R Code Neural Network Model](./BAN502_NNetwork.pdf)
+
+[R Code Neural Network2 Model](./BAN502_NNetwork2.pdf)
+
+[R Code Random Forest2 Model](./BAN502_RForest2.pdf)
+
+[R Code Random Forest3 Model](./BAN502_RForest3.pdf)
+
+[R Code Random Forest4 Model](./BAN502_RForest4.pdf)
+
+[R Code Random Forest4 App Model](./BAN502_RForest4_App.pdf)
+
+[R Code Random Forest Tuned Model](./BAN502_RForestTuned.pdf)
+
+[R Code Random Forest Tuned2 Model](./BAN502_RForestTuned2.pdf)
+
+[R Code Random Forest Tuned2 App Model](./BAN502_RForestTuned2_App.pdf)
+
+[R Code Random Forest Tuned3 Model](./BAN502_RForestTuned3.pdf)
+
+[R Code Random Forest Tuned4 Model](./BAN502_RForestTuned4.pdf)
