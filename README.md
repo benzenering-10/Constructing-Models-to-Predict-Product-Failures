@@ -11,4 +11,19 @@ The dataset was provided from Kaggle. Exploratory analysis was performed using R
 
 [R Code](./BAN502_VariableSelect.docx)
 
+<img width="1227" height="691" alt="image" src="https://github.com/user-attachments/assets/eb89da5e-6636-4304-af1b-8f051589b67b" />
+
+<img width="1226" height="688" alt="image" src="https://github.com/user-attachments/assets/506a0bc7-e119-4010-aecc-43d51e375ec5" />
+
+<img width="1225" height="689" alt="image" src="https://github.com/user-attachments/assets/4585a4c4-45ee-4796-894c-2e6217274b98" />
+
+<img width="1227" height="690" alt="image" src="https://github.com/user-attachments/assets/3d699f07-5e42-492a-901a-9ddfc3ec532d" />
+
+<img width="1226" height="688" alt="image" src="https://github.com/user-attachments/assets/4ddb047b-1672-451a-87d4-fbc0bfde08a9" />
+
+<img width="1227" height="691" alt="image" src="https://github.com/user-attachments/assets/37487482-a0b2-466d-bf72-78397d0a2ca3" />
+
+<img width="1228" height="689" alt="image" src="https://github.com/user-attachments/assets/6c431c94-6af3-4c93-b684-f1e33a74c932" />
+
+
 ## Phase 2 Key Findings
