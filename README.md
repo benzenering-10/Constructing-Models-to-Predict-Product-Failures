@@ -97,3 +97,24 @@ Random Forests were the only models achieving reasonable accuracy, which reflect
 [R Code XG Boost Tuned2 Model](./BAN502_XGBTuned2.pdf)
 
 [R Code XG Boost Tuned3 Model](./BAN502_XGBTuned3.pdf)
+
+<img width="1229" height="691" alt="image" src="https://github.com/user-attachments/assets/ab712867-0d84-439a-a69a-645983ce4e25" />
+
+<img width="1227" height="692" alt="image" src="https://github.com/user-attachments/assets/8a443ef6-1a05-4438-8251-bc0aff6a75e3" />
+
+<img width="1228" height="690" alt="image" src="https://github.com/user-attachments/assets/59995f3c-ab40-4ab3-8dc5-f20bbac88158" />
+
+<img width="1227" height="692" alt="image" src="https://github.com/user-attachments/assets/91f072d0-1325-4fba-9b4e-e13154621748" />
+
+<img width="1226" height="691" alt="image" src="https://github.com/user-attachments/assets/903facfc-27b3-45eb-aa02-758222cbb89f" />
+
+<img width="1228" height="689" alt="image" src="https://github.com/user-attachments/assets/d5925ddc-6c4f-495b-8b26-95982a2fa2fd" />
+
+<img width="1229" height="692" alt="image" src="https://github.com/user-attachments/assets/799f9eb1-66d5-4f82-a9f3-192a4b98c887" />
+
+
+
+
+
+
+
