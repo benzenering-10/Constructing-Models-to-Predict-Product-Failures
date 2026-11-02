@@ -50,3 +50,12 @@ Random Forests were the only models achieving reasonable accuracy, which reflect
 ### Phase 2 Files
 [Phase 2 Summary](./Project_Ph2_Models.pdf)
 
+[R Code Classification Tree](./BAN502_ClassTree.pdf)
+
+[R Code Classification Tree2](./BAN502_ClassTree2.pdf)
+
+[R Code Classification Tree3](./BAN502_ClassTree3.pdf)
+
+[R Code Classification Tree4](./BAN502_ClassTree4.pdf)
+
+[R Code Classification Tree Select Variables](./BAN502_ClassTreeSelect.pdf)
